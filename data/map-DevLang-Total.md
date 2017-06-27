@@ -103,6 +103,7 @@
   - sed
   - awk
   - bash
+  - zsh
 - Ruby
 - Tcl/Tk
 - Python
